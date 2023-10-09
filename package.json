@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-bull-pub-sub-arq-soft",
+  "version": "1.0.0",
+  "description": "Ejercicio en clase de Tecnologías de Arquitectura de Sofware de Publish/Subscribe con Bull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpaggiola/ejercicio-bull-pub-sub-arq-soft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpaggiola/ejercicio-bull-pub-sub-arq-soft/issues"
+  },
+  "homepage": "https://github.com/dpaggiola/ejercicio-bull-pub-sub-arq-soft#readme"
+}
